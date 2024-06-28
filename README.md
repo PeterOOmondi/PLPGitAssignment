@@ -4,3 +4,5 @@ Integrating it with GitHub.
 I learnt a lot from it.
 
 The code summary will go here
+
+Git Clone - used to clone repos
