@@ -7,3 +7,4 @@ The code summary will go here
 
 Git Clone - used to clone repositories 
 Git commit - used to save changes made to a repository.
+Git push 
